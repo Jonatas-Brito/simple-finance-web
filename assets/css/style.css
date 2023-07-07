@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+    color: var(--color-light-grey);
+}
+
+body {
+    font-size: 1.6rem;
+    background-color: var(--color-background);
+}
+
+h2,
+p {
+    color: var(--color-light-grey);
+}
